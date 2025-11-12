@@ -58,5 +58,5 @@ Projeto realizado sob orientação do **Prof. Marcell Philippe** no **SENAI – 
 
 1. Clone o repositório:  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone (https://github.com/MarkossCod/Sistema-Bancario.git)
 
